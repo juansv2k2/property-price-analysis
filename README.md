@@ -1,7 +1,48 @@
-# Exercises 1 and 2 - Group 7
+# Properti Prices Analysis - Argentina
 
-TP1 (Exploratory Data Analysis on Property Prices)
-This notebook focuses on exploratory data analysis (EDA) and data cleaning for a property price dataset. It includes handling missing data, descriptive statistics, feature engineering, and visualization using libraries such as Pandas, NumPy, Seaborn, and Matplotlib.
+This repository contains data analysis and predictive modeling notebooks focused on property prices in Argentina. The project is divided into two main parts:
 
-TP2 (Predictive Modeling on Property Prices)
-This notebook applies machine learning techniques to predict property prices, using linear regression and feature scaling. It involves data preprocessing, one-hot encoding, train-test splitting, and model evaluation, leveraging Scikit-Learn and StatsModels.
+---
+
+## Part 1: Exploratory Data Analysis (EDA)
+
+- **Objective:** Understand and clean the property price dataset.
+- **Key Tasks:**
+
+  - Handling missing data
+  - Generating descriptive statistics
+  - Feature engineering
+  - Data visualization
+
+- **Technologies:**
+  - Python
+  - Pandas
+  - NumPy
+  - Seaborn
+  - Matplotlib
+
+---
+
+## Part 2: Predictive Modeling
+
+- **Objective:** Build and evaluate models to predict property prices.
+- **Key Tasks:**
+
+  - Data preprocessing and feature scaling
+  - One-hot encoding of categorical variables
+  - Train-test data splitting
+  - Model training (Linear Regression)
+  - Model evaluation and interpretation
+
+- **Technologies:**
+  - Scikit-Learn
+  - StatsModels
+
+---
+
+## Data Sources
+
+- **Property Data:** `tp2_properati_no_input.csv`
+- **Geographical Data:**
+  - Shapefiles and administrative boundaries in `provincias/`
+  - Gazetteer and metadata in `provincias/AR/`
