@@ -1,4 +1,4 @@
-# Properti Prices Analysis - Argentina
+# Property Prices Analysis - Argentina
 
 This repository contains data analysis and predictive modeling notebooks focused on property prices in Argentina. The project is divided into two main parts:
 
